@@ -35,7 +35,7 @@ Ejecutar:
 ```bash
 python main.py
 
-___
+
 
 
 
